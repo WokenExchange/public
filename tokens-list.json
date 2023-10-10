@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "chainId": 11155111,
-      "address": "0x514f3D81aC27F32D6a60145ccE5489B8B6f047a2",
+      "chainId": 56,
+      "address": "0xE285c47d1ae64d705ca38cbC0c912DA531b7d8a3",
       "name": "Woken",
       "symbol": "WKN",
       "decimals": 9,
