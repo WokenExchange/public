@@ -1,0 +1,33 @@
+{
+  "name": "Custom List Woken",
+  "timestamp": "2022-10-03T22:03:29.938Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": [
+    "blockchain",
+    "wasdaq",
+    "woken"
+  ],
+  "tokens": [
+    {
+      "chainId": 5,
+      "address": "0xE06B56Fc1E19402E1a9DF3513E024a3b9847c9E5",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmT7DzBCiiQKvqyeus75FAZWVf9txo2BguGhNrkar73dhh"
+    },
+    {
+      "chainId": 5,
+      "address": "0x841699991e4129BA98385f50CDc4235CdF4A9397",
+      "name": "Woken",
+      "symbol": "WKN",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSamuz3LNZj5kmTRmkdJTAbMY1wxeWDSux7mupfa4oYeK"
+    }
+  ]
+}
