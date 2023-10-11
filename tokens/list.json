@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 97,
-      "address": "0xE285c47d1ae64d705ca38cbC0c912DA531b7d8a3",
+      "address": "0x7d43513b876435986a5c964ae3cab705f727a06e",
       "name": "WKN Faucet",
       "symbol": "WKN",
       "decimals": 18,
@@ -23,10 +23,10 @@
     },
     {
       "chainId": 5,
-      "address": "0x841699991e4129BA98385f50CDc4235CdF4A9397",
+      "address": "0x7d43513b876435986a5c964ae3cab705f727a06e",
       "name": "WKN Faucet",
       "symbol": "WKN",
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmSamuz3LNZj5kmTRmkdJTAbMY1wxeWDSux7mupfa4oYeK"
     }
   ]
