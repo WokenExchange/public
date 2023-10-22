@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "keywords": [
@@ -44,6 +44,22 @@
       "symbol": "tUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/usdt.png"
-    }
+    },
+    {
+      "chainId": 97,
+      "address": "0xf17943b79dde8af7c7372ba6183f1424381a9f92",
+      "name": "Remember",
+      "symbol": "RMB",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/remember.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x6b6cb614c439ee1cb1ac2df6f972556cb67cb04b",
+      "name": "Remember",
+      "symbol": "RMB",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/remember.png"
+    },
   ]
 }
