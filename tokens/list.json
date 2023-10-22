@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "keywords": [
@@ -36,6 +36,14 @@
       "symbol": "tUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/usdc.png"
+    },
+    {
+      "chainId": 97,
+      "address": "0x605Fa1e7b38d456B2406969046AF6F5094d1E5fD",
+      "name": "USDT Faucet",
+      "symbol": "tUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/usdt.png"
     }
   ]
 }
