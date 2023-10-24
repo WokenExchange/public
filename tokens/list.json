@@ -60,6 +60,14 @@
       "symbol": "RMB",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/remember.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xC5b1fC3b7899990119c227DAAC7C3DE948F2ea8B",
+      "name": "Cent Vingt",
+      "symbol": "120",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/120.png"
     }
   ]
 }
