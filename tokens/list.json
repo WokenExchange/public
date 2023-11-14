@@ -1,6 +1,6 @@
 {
-  "name": "Test List Woken",
-  "timestamp": "2023-10-10T14:32:17.977Z",
+  "name": "Woken Token List",
+  "timestamp": "2023-11-14T21:15:50.771Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,17 +14,9 @@
   ],
   "tokens": [
     {
-      "chainId": 97,
-      "address": "0x7d43513b876435986a5c964ae3cab705f727a06e",
-      "name": "WKN Faucet",
-      "symbol": "WKN",
-      "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSamuz3LNZj5kmTRmkdJTAbMY1wxeWDSux7mupfa4oYeK"
-    },
-    {
-      "chainId": 5,
-      "address": "0x7d43513b876435986a5c964ae3cab705f727a06e",
-      "name": "WKN Faucet",
+      "chainId": 42161,
+      "address": "0xc1CA1E745B09A36C86905b62a168e1B4cD4b9c56",
+      "name": "Woken",
       "symbol": "WKN",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmSamuz3LNZj5kmTRmkdJTAbMY1wxeWDSux7mupfa4oYeK"
