@@ -1,9 +1,9 @@
 {
   "name": "Woken Token List",
-  "timestamp": "2023-11-14T21:15:50.771Z",
+  "timestamp": "2023-11-16T17:34:39.354Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -20,6 +20,14 @@
       "symbol": "WKN",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmSamuz3LNZj5kmTRmkdJTAbMY1wxeWDSux7mupfa4oYeK"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/usdc.png"
     }
   ]
 }
