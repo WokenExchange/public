@@ -1,9 +1,9 @@
 {
   "name": "Woken Token List",
-  "timestamp": "2023-11-16T17:34:39.354Z",
+  "timestamp": "2024-02-26T16:21:02.676Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -28,6 +28,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/usdc.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xAe47a6F3169E6958D3bA9a1d151563b10eb829d1",
+      "name": "Time Cube 404",
+      "symbol": "TCUBE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WokenExchange/public/main/images/tokens/tcube.png"
     }
   ]
 }
